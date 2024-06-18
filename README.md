@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Data Science. 
-📫 How to reach me: seeun.park22@gmail.com
-⚡ Fun fact: I’m passionate about technology, problem-solving, and collaborating with others. When I’m not immersed in code or data, you’ll find me exploring new coffee shops or hiking trails. ☕🌲
+- 🌱 I’m currently learning Data Science. 
+- 📫 How to reach me: seeun.park22@gmail.com
+- ⚡ Fun fact: I’m passionate about technology, problem-solving, and collaborating with others. When I’m not immersed in code or data, you’ll find me exploring new coffee shops or hiking trails. ☕🌲
 
 <!--
 **Seeun-Park1/Seeun-Park1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
